@@ -3,4 +3,6 @@ This is a machine learning respoitory of all of the notebooks that I have create
 
 Update 6/20/2019: Uploaded two notebooks that were used for a statefarm application
 
-TODO: Upload notebook for Genetic Algo and Bayseian Optimization
+Update 7/09/2019: Uploaded the complete Bayesian Optimization tutorial for review
+
+TODO: Upload notebook for Genetic Algo and Bayesian Optimization in depth
